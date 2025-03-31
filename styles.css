@@ -1,0 +1,64 @@
+body {
+    background: rgb(190, 190, 253) !important;
+}
+h1 {
+    text-align: center;
+    padding-top: 40px;
+}
+img {
+    max-width: 100%;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+}
+h2 {
+    font-family: var(--heading-font-family);
+    font-weight: bold;
+    text-align: center;
+    margin: 30px;
+    color: black;
+    font-size: 64px;
+}
+
+p {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+
+.project-description {
+    padding: 40px 60px;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+
+
+
+
+
+.links {
+    text-align: center;
+    margin: 100px auto 20px auto;
+}
+.links a {
+    margin: 10px;
+}
+h6 {
+    padding-top: 10px;
+}
+.contact {
+    text-align: center;
+    font-size: 26px;
+}
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+a:visited {
+    color: green;
+}
